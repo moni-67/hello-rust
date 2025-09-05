@@ -3,5 +3,4 @@ pub fn ownership_demo() {
     let t = s;
 
     println!("t = {}", t);
-    println!("s = {}", s);
 }
